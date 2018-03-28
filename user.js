@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         Better Jenkins console output
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    https://github.com/leventyalcin/openuserjs-jenkins-die-side-bar
+// @homepage     https://github.com/leventyalcin/openuserjs-jenkins-die-side-bar
+// @version      0.0.1
 // @description  It removes side-bar
 // @author       Levent Yalcin
-// @match        /console || /consoleFull
+// @license      Apache-2.0
+// @match        https://*/job/*/console*
 // @grant        none
 // ==/UserScript==
 
