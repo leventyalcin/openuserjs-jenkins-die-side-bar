@@ -7,6 +7,7 @@
 // @author       Levent Yalcin
 // @license      Apache-2.0
 // @match        https://*/job/*/console*
+// @match        https://*/view/*/job/*/console*
 // @grant        none
 // ==/UserScript==
 
